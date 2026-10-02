@@ -1,0 +1,17 @@
+{
+  "schema_version": 1,
+  "applications": {
+    "com.taziggg100.carrerasantoine": {
+      "title": "CARRERAS ANTOINE",
+      "short_description": "Coordinate procurement, attendance, resources, and incidents on device.",
+      "full_description": "CARRERAS ANTOINE helps operations teams keep daily business tasks organized without accounts or cloud sync. Teams can capture procurement requests, attendance notes, resource allocations, and incident reports from one focused Android app.\n\nEach record includes an owner, location or team, quantity, priority, status, due date, and notes. The overview highlights active work so supervisors can review open items, inspect details, and close tasks once handled.",
+      "source_screenshots": [
+        "docs/screens/01_overview.png",
+        "docs/screens/02_workflows.png",
+        "docs/screens/03_detail.png"
+      ],
+      "generated_from": "existing repository listing metadata and README",
+      "generated_at": "2026-10-02T21:26:42.427464+00:00"
+    }
+  }
+}
