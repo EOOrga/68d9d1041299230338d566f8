@@ -28,7 +28,7 @@ android {
     }
 
     defaultConfig {
-        applicationId = "com.taziggg100.carrerasantoine"
+        applicationId = "com.tazig100.carrerasantoie"
         minSdk = maxOf(23, flutter.minSdkVersion)
         targetSdk = flutter.targetSdkVersion
         versionCode = flutter.versionCode

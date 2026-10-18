@@ -16,9 +16,9 @@ class CarrerasAntoineApp extends StatelessWidget {
 
   @override
   Widget build(BuildContext context) {
-    const primary = Color(0xFF17322F);
-    const secondary = Color(0xFFB77736);
-    const tertiary = Color(0xFF214B5B);
+    const primary = Color(0xFF1565C0);
+    const secondary = Color(0xFF8BC34A);
+    const tertiary = Color(0xFF558B2F);
     const background = Color(0xFFF7F2E8);
 
     final baseScheme =
@@ -504,7 +504,7 @@ class DashboardScreen extends StatelessWidget {
       padding: const EdgeInsets.fromLTRB(16, 12, 16, 24),
       children: [
         const BrandHeader(
-          title: 'Daily operations',
+          title: 'CARRERAS ANTOINE',
           subtitle:
               'Procurement, attendance, resources, and incidents in one local desk.',
         ),
