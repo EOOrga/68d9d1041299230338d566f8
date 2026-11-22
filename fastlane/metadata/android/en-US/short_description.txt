@@ -1,0 +1,1 @@
+Coordinate procurement, attendance, resources, and incidents on device.
