@@ -1,0 +1,3 @@
+CARRERAS ANTOINE helps operations teams keep daily business tasks organized without accounts or cloud sync. Teams can capture procurement requests, attendance notes, resource allocations, and incident reports from one focused Android app.
+
+Each record includes an owner, location or team, quantity, priority, status, due date, and notes. The overview highlights active work so supervisors can review open items, inspect details, and close tasks once handled.
